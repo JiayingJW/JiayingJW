@@ -7,7 +7,7 @@
   - :office: [LinkedIn](https://www.linkedin.com/in/jiayingwu88/)
 
 - Data visualization examples I have practiced in Tableau: https://public.tableau.com/app/profile/jiaying1193
-- Youtube channel:https://www.youtube.com/channel/UCIHhcGecYPyVicTWkaxuYbQ
+- Youtube channel: https://www.youtube.com/channel/UCIHhcGecYPyVicTWkaxuYbQ
 
 <!---
 JiayingJW/JiayingJW is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
