@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Jiaying Wu
+- 👋 Hi, I’m Jiaying
 - 👀 I’m interested in data-driven solutions and optimizations on business and academic questions.
 - 🌱 I’m currently studying in the Master Program of Business Analytics at University of Miami.
 - 💞️ I’m looking to work in the fields of Healthcare|Pets|Education|Tourism
