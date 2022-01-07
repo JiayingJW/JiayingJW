@@ -7,6 +7,7 @@
   - :office: [LinkedIn](https://www.linkedin.com/in/jiayingwu88/)
 
 - Data visualization examples I have practiced in Tableau: https://public.tableau.com/app/profile/jiaying1193
+- Scientific articles about climate and environmental change I have published: https://www.researchgate.net/profile/Jiaying-Wu-13 
 - Youtube channel: https://www.youtube.com/channel/UCIHhcGecYPyVicTWkaxuYbQ
 
 <!---
