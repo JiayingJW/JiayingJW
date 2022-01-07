@@ -1,5 +1,5 @@
 - 👋 Hi, there! I’m Jiaying
-- 👀 I’m interested in data-driven solutions and optimizations on business problems.
+- 👀 I’m interested in data-driven solutions and optimizations for business problems.
 - 🌱 I’m currently studying in the Master Program of Business Analytics at University of Miami.
 - 💞️ I’m looking to work in the fields of Tourism|Healthcare|Education.
 - 📫 Reach me at jiayingwu.88@gmail.com
